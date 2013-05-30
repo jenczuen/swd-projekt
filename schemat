@@ -1,0 +1,25 @@
+		mapa[0] = "w1" //warunki do biegu sa dobre
+		mapa[1] = "w2" //parametry zyciowe biegacza ok
+		mapa[2] = "w3" //bieg jest intensywny
+		mapa[3] = "w4" //bieg jest bardzo męczący	
+
+		mapa[4] = "u1" //bieg z goryiasdf
+		mapa[5] = "u2" //bieg na rownym
+		mapa[6] = "u3" //wiatr jest slaby
+		mapa[7] = "u4" //wiatr jest w plecy
+		mapa[8] = "u5" //podloze asfalt
+		mapa[9] = "u6" //podloze bierznia
+		mapa[10] = "u7" //podloze trawa
+		mapa[13] = "u10" //biegacz wytrenowany
+		mapa[14] = "u11" //oddech rowny
+		mapa[15] = "u12" //cisnienie w normie
+		mapa[16] = "u13" //puls w normie
+		mapa[17] = "u14" //zmeczenie male
+		mapa[18] = "u15" //zmeczenie srednie
+		mapa[19] = "u16" //zmeczenie wyisokie
+		mapa[20] = "u17" //zmeczenie skrajnie wysokie (poziom zmeczenia < 8)
+		mapa[24] = "y1" //spalanie tluszczu
+		mapa[25] = "y2" //wzmocnienie kondycji
+		mapa[26] = "y3" //zwiększenie szybkości
+		mapa[27] = "y4" //utrata przytomnosci
+		mapa[28] = "y5" //rekreacja

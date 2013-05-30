@@ -1,0 +1,32 @@
+Modelujemy system decyzyjny, pomagajacy biegaczowi podjąć decyzję
+jak ma biec, w zależności od tego jaki cel chce osiągnąć
+
+------------------------------------------------------------
+Wyjścia:
+y1 - {
+				Rekreacja,
+				Spalanie tłuszczu, 
+				Wzmocnienie kondycji, 
+				Zwiększenie szybkości,
+				Utrata przytomności
+			}
+
+
+Wejścia:
+Zmienne ze śrowiskiem biegu (mamy na nie bezpośredni wpływ):
+u1 - nachylenie - {z góry, równo, pod górę}
+u2 - wiatr (kierunek) - {w plecy, w twarz}
+u3 - wiatr (prędkość) - [0, 100) km/h
+u4 - podłoże - {asfalt, trawa, bieżnia}
+
+Zmienne życiowe biegacza
+u7  - puls - [72, 120]
+u8  - ciśnienie krwi - {w normie, za wysokie}
+u9  - oddech - {równy, zadyszka}
+u10 - poziom zmęczenia - [1, 10]
+u11 - wytrenowanie - [1, 10]
+
+Zmienne na które biegacz ma wplyw (decyzja)
+u6 - prędkość - [10, 30] km/h
+u5 - rodzaj obuwia - {zwykłe, rekreacyjne, wyczynowe}
+ux - czas biegu

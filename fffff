@@ -1,0 +1,31 @@
+aw1 - warunki do biegu sa dobre
+aw2 - parametry zyciowe biegacza ok
+aw3 - bieg jest intensywny
+aw4 - bieg jest bardzo męczący
+	
+au1	 - z gory
+au2	 - na rownym
+au3	 - wiatr jest slaby
+au4	 - wiatr jest w plecy
+au5	 - podloze asfalt
+au6	 - podloze bierznia
+au7	 - podloze trawa
+au8	 - obuwie rekreacyjne
+au9	 - obuwie wyczynowe
+au10 - biegacz wytrenowany
+au11 - oddech rowny
+au12 - cisnienie w normie
+au13 - puls w normie
+au14 - zmeczenie male
+au15 - zmeczenie srednie
+au16 - zmeczenie wysokie
+au17 - zmeczenie skrajnie wysokie (poziom zmeczenia < 8)
+au18 - predkosc niska
+au19 - predkosc srednia
+au20 - predkosc wysoka
+	
+ay1 - spalanie tluszczu
+ay2 - wzmocnienie kondycji
+ay3 - zwiększenie szybkości
+ay4 - utrata przytomnosci
+ay5 - rekreacja

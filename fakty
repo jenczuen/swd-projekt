@@ -1,0 +1,65 @@
+Jezeli 
+	[~(warunki do biegu sa dobre) i (predkosc srednia)] lub
+	[(warunki do biegu sa dobre) i (predkosc wysoka)]
+to (bieg jest intensywny)
+
+Jeżeli 
+	~(warunki do biegu sa dobre) lub
+	(zmeczenie wysokie)
+to (bieg jest bardzo męczący)
+
+Jeżeli
+	~(bieg jest bardzo meczacy) lub
+	(	
+		[(bieg z gory) lub (bieg na rownym)] i
+		[(wiatr jest slaby) lub (wiatr jest w plecy)] i
+		[ 
+			[ 
+				((podloze asfalt) lub (podloze bierznia)) i 
+	   		((obuwie rekreacyjne) lub (obuwie wyczynowe)) 
+	   	] lub (podloze trawa) 
+	  ]
+	)
+to (warunki do biegu sa dobre)
+
+Jeżeli
+	(oddech rowny) i
+	(cisnienie w normie) i
+	(puls w normie) i
+	~(zmeczenie skrajnie wysokie)
+to (parametry zyciowe biegacza ok)
+
+
+Jeżeli 
+	(warunki do biegu sa dobre) i
+	~(biegacz wytrenowany) i
+	[(zmeczenie srednie) lub (zmeczenie wysokie)] i
+	(bieg intensywny)
+to (spalanie tluszczu)
+
+Jeżeli 
+	(biegacz wytrenowany) i
+	[(zmeczenie srednie) lub (zmeczenie wysokie)] i
+	(bieg intensywny)
+to (wzmocnienie kondycji)
+
+Jeżeli 
+	(warunki do biegu sa dobre) i
+	(biegacz wytrenowany) i
+	[(zmeczenie srednie) lub (zmeczenie wysokie)] i
+	(bieg intensywny) i
+	(bieg szybki)
+to (zwiększenie szybkości)
+
+Jeżeli 
+	~(parametry zyciowe biegacza ok) i
+  [(bieg jest bardzo męczący) lub (zmeczenie skrajnie wysokie)] i
+  ~(biegacz wytrenowany)
+to (utrata przytomnosci)
+
+Jeżeli
+	(parametry zyciowe biegacza ok) i
+	(warunki do biegu sa dobre) i
+	(zmeczenie male) i
+	[(predkosc niska) lub (predkosc srednia)]
+to (rekreacja)

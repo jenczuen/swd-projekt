@@ -1,0 +1,56 @@
+------------------------------------------------------------
+Formuły atomowe związane ze zmiennymi
+ay1 - y1 = "Rekreacja"
+ay2 - y1 = "Spalanie tłuszczu"
+ay3 - y1 = "Wzmocnienie kondycji"
+ay4 - y1 = "Zwiększenie szybkości"
+ay5 - y1 = "Utrata przytomności"
+
+au1 - u1 = "z góry"
+au2 - u1 = "równo"
+au3 - u1 = "pod górę"
+
+au4 - u2 = "w plecy"
+au5 - u2 = "w twarz"
+
+au6 - 0  <= u3 < 10
+au7 - 10 <= u3 < 30
+au8 - 30 <= u3 < 100
+
+au9  - u4 = "asfalt"
+au10 - u4 = "trawa"
+au11 - u4 = "bieżnia"
+
+au12 - u5 = "zwykłe"
+au13 - u5 = "rekreacyjne"
+au14 - u5 = "wyczynowe"
+
+au15 - 10 <= u6 < 15
+au16 - 15 <= u6 < 20
+au17 - 25 <= u6 <= 30
+
+au18 - 72  <= u7 < 95
+au19 - 95  <= u7 < 110
+au20 - 110 <= u7 <= 120
+
+au21 - u8 = "w normie"
+au22 - u8 = "za wysokie"
+
+au23 - u9 = "równy"
+au24 - u9 = "zadyszka"
+
+au25 - 1 <= u10 < 3
+au26 - 3 <= u10 < 5
+au27 - 5 <= u10 < 7
+au28 - 7 <= u10 <= 10
+
+au29 - 1 <= u10 < 3
+au30 - 3 <= u10 < 5
+au31 - 5 <= u10 < 7
+au32 - 7 <= u10 <= 10
+
+Formuly wewnetrzne
+aw1 - "bieg jest bardzo męczący"
+aw2 - "warunki do biegu sa sprzyjające"
+aw3 - "parametry zyciowe biegacza ok"
+as4 - bieg jest intensywny

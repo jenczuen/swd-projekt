@@ -1,0 +1,22 @@
+Ustalenie formul wewnetrznych (jakie moga miec wartosci)
+
+F3 = ~(aw4) lub
+	(	
+		[(au1) lub (au2)] i
+		[(au3) lub (au4)] i
+		[
+			[((au5) lub (au6)) i ((au8) lub (au9))] lub (au7) 
+		]
+	) -> (aw1)
+F4 = (au11) i (au12) i (au13) i ~(au17) -> (aw2)
+F1 = [~(aw1) i (au19)] lub [(aw1) i (au20)] -> (aw3)
+F2 = ~(aw1) lub (au16) -> (aw4)
+
+
+Ustalenie formul wyjsciowych
+
+F5 = (aw1) i ~(au10) i [(au15) lub (au16)] i (aw3) -> (ay1)
+F6 = (au10) i [(au15) lub (au16)] i (aw3) -> (ay2)
+F7 = (aw1) i (au10) i [(au15) lub (au16)] i (aw3) i (au20) -> (ay3)
+F8 = ~(aw2) i [(aw4) lub (au17)] i ~(au10) -> (ay4)
+F9 = (aw2) i (aw1) i (au14) i [(au18) lub (au19)] -> (ay5)
